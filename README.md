@@ -1,4 +1,4 @@
-##Hi there, my name is Alexandra Coffman!
+Hi there, my name is Alexandra Coffman!
 
 I’m currently studying Computer Science and Digital Narrative & Interactive Design with a minor in Information Science focused on UX at the University of Pittsburgh. I derive immense joy from crafting thoughtful and immersive user experiences. I also believe that design and programming can’t thrive without each other; design needs functionality, and programming needs a neatly crafted, user-friendly appeal. I love creating magnificent creative designs and using code to bring those stories to life.
 
